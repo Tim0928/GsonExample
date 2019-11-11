@@ -1,0 +1,19 @@
+{
+  "address": {
+    "city": "Taipei",
+    "country": "Taiwan"
+  },
+  "age": 30,
+  "family": [
+    {
+      "age": 30,
+      "role": "Wife"
+    },
+    {
+      "age": 6,
+      "role": "Daught"
+    }
+  ],
+  "frist_name": "John",
+  "mail": "John@gmail.com"
+}
